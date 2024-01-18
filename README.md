@@ -1,2 +1,2 @@
-# Podcasts-Stream
-Podcast Streaming
+# Podcast-Stream
+Podcast Streaming App
